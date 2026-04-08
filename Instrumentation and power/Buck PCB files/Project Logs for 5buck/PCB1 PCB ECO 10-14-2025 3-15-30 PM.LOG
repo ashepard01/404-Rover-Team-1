@@ -1,0 +1,64 @@
+Added Pin To Net: NetName=+24V Pin=C4-1
+Added Pin To Net: NetName=+24V Pin=L1-1
+Added Class: Name=C1_Nets
+Added Class: Name=C2_Nets
+Added Class: Name=C3_Nets
+Added Class: Name=C4_Nets
+Added Class: Name=C5_Nets
+Added Class: Name=C6_Nets
+Added Class: Name=C7_Nets
+Added Class: Name=C8_Nets
+Added Class: Name=C9_Nets
+Added Class: Name=C10_Nets
+Added Class: Name=C11_Nets
+Added Class: Name=C12_Nets
+Added Class: Name=C13_Nets
+Added Class: Name=C14_Nets
+Added Class: Name=C15_Nets
+Added Class: Name=C16_Nets
+Added Class: Name=C17_Nets
+Added Class: Name=C18_Nets
+Added Class: Name=J1_Nets
+Added Class: Name=J2_Nets
+Added Class: Name=J3_Nets
+Added Class: Name=L1_Nets
+Added Class: Name=L2_Nets
+Added Class: Name=L3_Nets
+Added Class: Name=L4_Nets
+Added Class: Name=R1_Nets
+Added Class: Name=R2_Nets
+Added Class: Name=R3_Nets
+Added Class: Name=R4_Nets
+Added Class: Name=U1_Nets
+Added Class: Name=U2_Nets
+Added Member To Class: ClassName=Buck Member=Component C1 GRM188R71C104KA01D
+Added Member To Class: ClassName=Buck Member=Component C2 CL31A226KAHNNNE
+Added Member To Class: ClassName=Buck Member=Component C3 CL31A226KAHNNNE
+Added Member To Class: ClassName=Buck Member=Component C4 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C5 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C6 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C7 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C8 GRM188R71H224KAC4D
+Added Member To Class: ClassName=Buck Member=Component C9 GRM188R71C105KA12D
+Added Member To Class: ClassName=Buck Member=Component C10 GRM188R71C104KA01D
+Added Member To Class: ClassName=Buck Member=Component C11 CL31A226KAHNNNE
+Added Member To Class: ClassName=Buck Member=Component C12 CL31A226KAHNNNE
+Added Member To Class: ClassName=Buck Member=Component C13 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C14 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C15 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C16 CGA5L1X7R1H106K160AE
+Added Member To Class: ClassName=Buck Member=Component C17 GRM188R71H224KAC4D
+Added Member To Class: ClassName=Buck Member=Component C18 GRM188R71C105KA12D
+Added Member To Class: ClassName=Buck Member=Component J1 691137710006
+Added Member To Class: ClassName=Buck Member=Component J2 691137710004
+Added Member To Class: ClassName=Buck Member=Component J3 691137710004
+Added Member To Class: ClassName=Buck Member=Component L1 XAL4030-472MEC
+Added Member To Class: ClassName=Buck Member=Component L2 74404042100
+Added Member To Class: ClassName=Buck Member=Component L3 XAL4030-472MEC
+Added Member To Class: ClassName=Buck Member=Component L4 74404042100
+Added Member To Class: ClassName=Buck Member=Component R1 CRCW060380K6FKEC
+Added Member To Class: ClassName=Buck Member=Component R2 CRCW060320K0FKEA
+Added Member To Class: ClassName=Buck Member=Component R3 RT0603BRD07115KL
+Added Member To Class: ClassName=Buck Member=Component R4 CRCW060350K0FKEA
+Added Member To Class: ClassName=Buck Member=Component U1 LMR36520ADDAR
+Added Member To Class: ClassName=Buck Member=Component U2 LMR36520ADDAR

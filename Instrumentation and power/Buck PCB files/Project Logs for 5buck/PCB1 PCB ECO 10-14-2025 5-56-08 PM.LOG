@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+5 Pin=J1-1
+Removed Pin From Net: NetName=+5 Pin=J1-3
+Removed Pin From Net: NetName=+5 Pin=J1-5
+Removed Pin From Net: NetName=+3.3v Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=+3.3v Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+5 Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=+24V Pin=J2-1
+Added Pin To Net: NetName=+24V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+3.3v Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=+3.3v Pin=J3-4
+Added Member To Class: ClassName=J2_Nets Member=Wire +24V
+Added Member To Class: ClassName=J2_Nets Member=Wire GND
